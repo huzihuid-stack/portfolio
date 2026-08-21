@@ -1,4 +1,5 @@
 .vercel/
 tools/
+.npmrc
+.pnpm-store/
 Thumbs.db
-
